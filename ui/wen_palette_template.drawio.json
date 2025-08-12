@@ -1,0 +1,77 @@
+{
+  "root": {
+    "cells": [
+      {
+        "id": "0",
+        "style": "shape=rectangle",
+        "vertex": "1",
+        "connectable": "0"
+      },
+      {
+        "id": "1",
+        "parent": "0",
+        "style": "shape=rectangle;rounded=1;fillColor=#1e1e1e;strokeColor=#00ffff;fontColor=#ffffff;fontFamily=Inter;",
+        "vertex": "1",
+        "x": 20,
+        "y": 20,
+        "width": 80,
+        "height": 80,
+        "app_name": "chrome.exe",
+        "label": "Chrome",
+        "tooltip": "Launch Chrome",
+        "action": "launch_app",
+        "icon": "chrome.ico",
+        "profile": "Work",
+        "slot_id": 1
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "style": "shape=rectangle;rounded=1;fillColor=#1e1e1e;strokeColor=#00ffff;fontColor=#ffffff;fontFamily=Inter;",
+        "vertex": "1",
+        "x": 120,
+        "y": 20,
+        "width": 80,
+        "height": 80,
+        "app_name": "code.exe",
+        "label": "VS Code",
+        "tooltip": "Open VS Code",
+        "action": "launch_app",
+        "icon": "vscode.ico",
+        "slot_id": 2
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "style": "shape=rectangle;rounded=1;fillColor=#1e1e1e;strokeColor=#00ffff;fontColor=#ffffff;fontFamily=Inter;",
+        "vertex": "1",
+        "x": 220,
+        "y": 20,
+        "width": 80,
+        "height": 80,
+        "app_name": "notepad.exe",
+        "label": "Notepad",
+        "tooltip": "Quick notes",
+        "action": "launch_app",
+        "icon": "notepad.ico",
+        "slot_id": 3
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "style": "shape=rectangle;rounded=1;fillColor=#1e1e1e;strokeColor=#00ffff;fontColor=#ffffff;fontFamily=Inter;",
+        "vertex": "1",
+        "x": 320,
+        "y": 20,
+        "width": 80,
+        "height": 80,
+        "app_name": "explorer.exe",
+        "label": "Explorer",
+        "tooltip": "Open File Explorer",
+        "action": "open_folder",
+        "icon": "explorer.ico",
+        "slot_id": 4
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "python.pythonPath": ".venv\\Scripts\\python.exe",
+    "python.terminal.activateEnvironment": true,
+    "terminal.integrated.cwd": "${workspaceFolder}",
+    "files.autoSave": "onFocusChange"
+  },
+  "extensions": {
+    "recommendations": [
+      "ms-python.python",
+      "ms-vscode.powershell",
+      "ms-toolsai.jupyter"
+    ]
+  },
+  "launch": {
+    "configurations": [],
+    "compounds": []
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "brand_name": "Windows Express Navigator (WEN)",
+  "logo": {
+    "icon_style": "grid_window_recall",
+    "shape": "square",
+    "highlight": "cyan glow on active window"
+  },
+  "color_palette": {
+    "vapor_slate": "#1C1F26",
+    "accent_cyan": "#00D1FF",
+    "window_silver": "#C2C7CC",
+    "action_orange": "#FFA500",
+    "clouded_white": "#F2F2F2"
+  },
+  "typography": {
+    "heading": {
+      "font": "Poppins",
+      "weight": "Bold",
+      "transform": "uppercase",
+      "size": 48
+    },
+    "subheading": {
+      "font": "Inter",
+      "weight": "Medium",
+      "transform": "capitalize",
+      "size": 32
+    },
+    "body": {
+      "font": "Open Sans",
+      "weight": "Regular",
+      "size": 24
+    },
+    "code": {
+      "font": "JetBrains Mono",
+      "weight": "Regular",
+      "size": 20
+    }
+  },
+  "tone": {
+    "vibe": "precise, technical, efficient",
+    "keywords": [
+      "continuity",
+      "snap",
+      "workspace",
+      "speed",
+      "flow"
+    ],
+    "audience": "power users, workflow designers, desktop optimizers"
+  },
+  "visual_elements": {
+    "icons": [
+      "window grid",
+      "snap arrow",
+      "desktop recall",
+      "monitor overlay"
+    ],
+    "effects": [
+      "cyan glow",
+      "light gridlines",
+      "recalled panel highlight"
+    ]
+  }
+}

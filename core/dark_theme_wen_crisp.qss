@@ -1,0 +1,89 @@
+
+QWidget#Border {
+    border: 2px solid #33ccff;
+    background-color: transparent;
+}
+
+QPushButton[class="unassigned"] {
+    border: 1px dashed rgba(183, 221, 218, 0.6);
+    background-color: rgba(10, 10, 10, 0.7);
+    color: #ddd;
+    border-radius: 8px;
+    font-size: 13px;
+    padding: 4px;
+}
+
+QPushButton[class="unassigned"]:hover {
+/* QPushButton[class~="grid"]:hover {
+*/    border: 1px solid #33ccff;
+    background-color: rgba(40, 80, 90, 0.7);
+    color: #ffffff;
+}
+
+QPushButton[class="unassigned"]:focus {
+    border: 1px solid #33ccff;
+    background-color: rgba(50, 100, 110, 0.9);
+    color: #fff;
+}
+QPushButton[class~="highlight"] {
+    border: 2px solid #33ccff;
+    background-color: rgba(51, 204, 255, 0.15);
+}
+
+QPushButton[class="safe"] {
+    background-color: #339933;
+    color: white;
+    border: 1px solid #2d882d;
+    border-radius: 6px;
+}
+
+QPushButton[class="safe"]:hover {
+    background-color: #44aa44;
+}
+
+QPushButton[class="safe"]:pressed {
+    background-color: #267326;
+}
+
+QPushButton[class="danger"] {
+    background-color: #c49898;
+    border: none;
+    color: #cc4444;
+    border-radius: 6px;
+}
+
+QPushButton[class="danger"]:hover {
+    background-color: #ff5555;
+}
+
+QPushButton[class="primary"] {
+    background-color: #444;
+    border: 1px solid #666;
+    color: #ac9;
+    border-radius: 6px;
+}
+
+QPushButton[class="primary"]:hover {
+    background-color: #666;
+    color: white;
+}
+QPushButton[class="unassigned highlight"] {
+    border: 2px solid #66ccff;
+    background-color: rgba(50, 200, 255, 0.3);
+}
+
+QPushButton[class="unassigned highlight pulse"] {
+    border: 2px solid #33ffff;
+    background-color: rgba(60, 240, 255, 0.4);
+}
+
+QLabel {
+    color: #ffffffff;
+    font-size: 11px;
+}
+
+QWidget {
+    background-color: #1a1a1a;
+    color: #ccc;
+    font-family: Inter, sans-serif;
+}

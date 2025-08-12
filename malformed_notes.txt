@@ -1,0 +1,4 @@
+E:\Obsidian\Research Vault\GUI dev.md — mapping values are not allowed in this context
+  in "<unicode string>", line 24, column 51
+E:\Obsidian\Research Vault\Writing Scripts.md — mapping values are not allowed in this context
+  in "<unicode string>", line 2, column 36

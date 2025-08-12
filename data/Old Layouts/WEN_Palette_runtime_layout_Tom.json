@@ -1,0 +1,317 @@
+{
+  "root": {
+    "cells": [
+   {
+        "x": 294,
+        "y": 80,
+        "width": 226,
+        "height": 290,
+        "label": " ",
+        "id": "O-ws_NPDMg6LXlj5JLhv-1",
+        "parent": "1",
+        "style": "rounded=.4;whiteSpace=wrap;html=1;arcSize=50;fillColor=#DFFFF1;strokeColor=#00FFFF;",
+        "vertex": "1",
+        "type": "grid",
+        "tooltip": "Unassigned",
+        "icon": "none",
+        "action": "unassigned",
+        "slot_id": "Border"
+      },
+        {
+        "x": 310,
+        "y": 136,
+        "width": 40,
+        "height": 40,
+        "label": "1",
+        "type": "grid",
+        "tooltip": "Unassigned",
+        "icon": "default.ico",
+        "action": "unassigned",
+        "slot_id": "Button_1"
+
+      },
+      {
+        "x": 360,
+        "y": 136,
+        "width": 40,
+        "height": 40,
+        "label": "2",
+        "type": "grid",
+        "tooltip": "Unassigned",
+        "icon": "default.ico",
+        "action": "unassigned",
+        "slot_id": "Button_2"
+      },
+      {
+        "x": 411,
+        "y": 136,
+        "width": 40,
+        "height": 40,
+        "label": "3",
+        "type": "grid",
+        "tooltip": "Unassigned",
+        "icon": "default.ico",
+        "action": "unassigned",
+        "slot_id": "Button_3"
+      },
+      {
+        "x": 460,
+        "y": 136,
+        "width": 40,
+        "height": 40,
+        "label": "4",
+        "type": "grid",
+        "tooltip": "Unassigned",
+        "icon": "default.ico",
+        "action": "unassigned",
+        "slot_id": "Button_4"
+      },
+      {
+        "x": 310,
+        "y": 180,
+        "width": 40,
+        "height": 40,
+        "label": "5",
+        "type": "grid",
+        "tooltip": "Unassigned",
+        "icon": "default.ico",
+        "action": "unassigned",
+        "slot_id": "Button_5"
+      },
+      {
+        "x": 360,
+        "y": 180,
+        "width": 40,
+        "height": 40,
+        "label": "6",
+        "type": "grid",
+        "tooltip": "Unassigned",
+        "icon": "default.ico",
+        "action": "unassigned",
+        "slot_id": "Button_6"
+      },
+      {
+        "x": 411,
+        "y": 180,
+        "width": 40,
+        "height": 40,
+        "label": "7",
+        "type": "grid",
+        "tooltip": "Unassigned",
+        "icon": "default.ico",
+        "action": "unassigned",
+        "slot_id": "Button_7"
+      },
+      {
+        "x": 460,
+        "y": 180,
+        "width": 40,
+        "height": 40,
+        "label": "8",
+        "type": "grid",
+        "tooltip": "Unassigned",
+        "icon": "default.ico",
+        "action": "unassigned",
+        "slot_id": "Button_8"
+      },
+      {
+        "x": 310,
+        "y": 225,
+        "width": 40,
+        "height": 40,
+        "label": "9",
+        "type": "grid",
+        "tooltip": "Unassigned",
+        "icon": "default.ico",
+        "action": "unassigned",
+        "slot_id": "Button_9"
+      },
+      {
+        "x": 360,
+        "y": 225,
+        "width": 40,
+        "height": 40,
+        "label": "10",
+        "type": "grid",
+        "tooltip": "Unassigned",
+        "icon": "default.ico",
+        "action": "unassigned",
+        "slot_id": "Button_10"
+      },
+      {
+        "x": 411,
+        "y": 225,
+        "width": 40,
+        "height": 40,
+        "label": "11",
+        "type": "grid",
+        "tooltip": "Unassigned",
+        "icon": "default.ico",
+        "action": "unassigned",
+        "slot_id": "Button_11"
+      },
+      {
+        "x": 460,
+        "y": 225,
+        "width": 40,
+        "height": 40,
+        "label": "12",
+        "type": "grid",
+        "tooltip": "Unassigned",
+        "icon": "default.ico",
+        "action": "unassigned",
+        "slot_id": "Button_12"
+      },
+      {
+        "x": 310,
+        "y": 272,
+        "width": 40,
+        "height": 40,
+        "label": "13",
+        "type": "grid",
+        "tooltip": "Unassigned",
+        "icon": "default.ico",
+        "action": "unassigned",
+        "slot_id": "Button_13"
+      },
+      {
+        "x": 360,
+        "y": 272,
+        "width": 40,
+        "height": 40,
+        "label": "14",
+        "type": "grid",
+        "tooltip": "Unassigned",
+        "icon": "default.ico",
+        "action": "unassigned",
+        "slot_id": "Button_14"
+      },
+      {
+        "x": 411,
+        "y": 272,
+        "width": 40,
+        "height": 40,
+        "label": "15",
+        "type": "grid",
+        "tooltip": "Unassigned",
+        "icon": "default.ico",
+        "action": "unassigned",
+        "slot_id": "Button_15"
+      },
+      {
+        "x": 460,
+        "y": 272,
+        "width": 40,
+        "height": 40,
+        "label": "16",
+        "type": "grid",
+        "tooltip": "Unassigned",
+        "icon": "default.ico",
+        "action": "unassigned",
+        "slot_id": "Button_16"
+      },
+      {
+        "x": 409,
+        "y": 98,
+        "width": 22,
+        "height": 22,
+        "label":"+",
+        "slot_id":"Add_Control",
+        "icon": "add.ico",
+        "type": "control",
+        "tooltip":"Add Button to palette",
+        "font": {
+            "family": "Inter",
+            "size": 14
+        }
+      },
+            {
+        "x": 440,
+        "y": 98,
+        "width": 22,
+        "height": 22,
+        "label":"-",
+        "slot_id":"Remove_Control",
+        "icon": "minus.ico",
+        "type": "control",
+        "tooltip":"Remove Button from palette",
+        "font": {
+            "family": "Inter",
+            "size": 14
+        }
+      },
+      {
+        "x": 470,
+        "y": 99,
+        "width": 30,
+        "height": 20,
+        "label":"3 x 3",
+        "slot_id":"Toggle_Layout",
+        "type": "control",
+        "tooltip":"Toggle Layout",
+        "font": {
+            "family": "Inter",
+            "size": 8
+        }
+       },
+      {
+        "x": 360,
+        "y": 98,
+        "width": 39,
+        "height": 22,
+        "label": "Save",
+        "slot_id": "Save_Layout",
+        "type": "control",
+        "icon": "save.ico",
+        "tooltip": "Save current layout",
+        "font": {
+            "family": "Inter",
+            "size": 14
+         }
+      },
+       {
+        "x": 311,
+        "y": 98,
+        "width": 39,
+        "height": 22,
+        "label": "Load",
+        "slot_id": "Load_Layout",
+        "icon" : "open.ico",
+        "type": "control",
+        "tooltip": "Load existing layout",
+        "font": {
+            "family": "Inter",
+            "size": 9
+        }
+       },
+      {
+        "x": 314,
+        "y": 328,
+        "width": 140,
+        "height": 20,
+        "label": "current layout",
+        "slot_id": "Current_Layout",
+        "type": "control",
+        "tooltip": "Current Layout file",
+        "font": {
+            "family": "Inter",
+            "size": 10
+        }
+      },
+{
+        "x": 468,
+        "y": 328,
+        "width": 28,
+        "height": 20,
+        "label": "L / D",
+        "slot_id": "Theme_Toggle",
+        "type": "control",
+        "tooltip": "Current Layout file",
+        "font": {
+            "family": "Inter",
+            "size": 8
+        }
+    }
+    ]
+  }
+}

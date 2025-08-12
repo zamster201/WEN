@@ -1,0 +1,134 @@
+{
+  "root": {
+    "cells": [
+      {
+        "x": 294,
+        "y": 80,
+        "width": 226,
+        "height": 290,
+        "label": "",
+        "id": "O-ws_NPDMg6LXlj5JLhv-1",
+        "parent": "1",
+        "style": "rounded=.4;whiteSpace=wrap;html=1;arcSize=50;fillColor=#DFFFF1;strokeColor=#00FFFF;",
+        "vertex": "1",
+        "type": "grid",
+        "tooltip": "Unassigned",
+        "icon": "default.ico",
+        "action": "unassigned",
+        "slot_id": "1"
+      },
+      {
+        "x": 310,
+        "y": 136,
+        "width": 40,
+        "height": 40,
+        "label": ""
+      },
+      {
+        "x": 360,
+        "y": 136,
+        "width": 40,
+        "height": 40,
+        "label": ""
+      },
+      {
+        "x": 411,
+        "y": 136,
+        "width": 40,
+        "height": 40,
+        "label": ""
+      },
+      {
+        "x": 460,
+        "y": 136,
+        "width": 40,
+        "height": 40,
+        "label": ""
+      },
+      {
+        "x": 310,
+        "y": 180,
+        "width": 40,
+        "height": 40,
+        "label": ""
+      },
+      {
+        "x": 360,
+        "y": 180,
+        "width": 40,
+        "height": 40,
+        "label": ""
+      },
+      {
+        "x": 411,
+        "y": 180,
+        "width": 40,
+        "height": 40,
+        "label": ""
+      },
+      {
+        "x": 460,
+        "y": 180,
+        "width": 40,
+        "height": 40,
+        "label": ""
+      },
+      {
+        "x": 310,
+        "y": 225,
+        "width": 40,
+        "height": 40,
+        "label": ""
+      },
+      {
+        "x": 360,
+        "y": 225,
+        "width": 40,
+        "height": 40,
+        "label": ""
+      },
+      {
+        "x": 411,
+        "y": 225,
+        "width": 40,
+        "height": 40,
+        "label": ""
+      },
+      {
+        "x": 460,
+        "y": 225,
+        "width": 40,
+        "height": 40,
+        "label": ""
+      },
+      {
+        "x": 310,
+        "y": 272,
+        "width": 40,
+        "height": 40,
+        "label": ""
+      },
+      {
+        "x": 360,
+        "y": 272,
+        "width": 40,
+        "height": 40,
+        "label": ""
+      },
+      {
+        "x": 411,
+        "y": 272,
+        "width": 40,
+        "height": 40,
+        "label": ""
+      },
+      {
+        "x": 460,
+        "y": 272,
+        "width": 40,
+        "height": 40,
+        "label": ""
+      }
+    ]
+  }
+}

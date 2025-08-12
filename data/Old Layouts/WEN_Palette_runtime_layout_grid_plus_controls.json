@@ -1,0 +1,183 @@
+{
+  "root": {
+    "cells": [
+      {
+        "x": 294,
+        "y": 80,
+        "width": 226,
+        "height": 290,
+        "label": "",
+        "id": "O-ws_NPDMg6LXlj5JLhv-1",
+        "parent": "1",
+        "style": "rounded=.4;whiteSpace=wrap;html=1;arcSize=50;fillColor=#DFFFF1;strokeColor=#00FFFF;",
+        "vertex": "1",
+        "type": "grid",
+        "tooltip": "Unassigned",
+        "icon": "default.ico",
+        "action": "unassigned",
+        "slot_id": "1"
+      },
+      {
+        "x": 310,
+        "y": 136,
+        "width": 40,
+        "height": 40,
+        "label": ""
+      },
+      {
+        "x": 360,
+        "y": 136,
+        "width": 40,
+        "height": 40,
+        "label": ""
+      },
+      {
+        "x": 411,
+        "y": 136,
+        "width": 40,
+        "height": 40,
+        "label": ""
+      },
+      {
+        "x": 460,
+        "y": 136,
+        "width": 40,
+        "height": 40,
+        "label": ""
+      },
+      {
+        "x": 310,
+        "y": 180,
+        "width": 40,
+        "height": 40,
+        "label": ""
+      },
+      {
+        "x": 360,
+        "y": 180,
+        "width": 40,
+        "height": 40,
+        "label": ""
+      },
+      {
+        "x": 411,
+        "y": 180,
+        "width": 40,
+        "height": 40,
+        "label": ""
+      },
+      {
+        "x": 460,
+        "y": 180,
+        "width": 40,
+        "height": 40,
+        "label": ""
+      },
+      {
+        "x": 310,
+        "y": 225,
+        "width": 40,
+        "height": 40,
+        "label": ""
+      },
+      {
+        "x": 360,
+        "y": 225,
+        "width": 40,
+        "height": 40,
+        "label": ""
+      },
+      {
+        "x": 411,
+        "y": 225,
+        "width": 40,
+        "height": 40,
+        "label": ""
+      },
+      {
+        "x": 460,
+        "y": 225,
+        "width": 40,
+        "height": 40,
+        "label": ""
+      },
+      {
+        "x": 310,
+        "y": 272,
+        "width": 40,
+        "height": 40,
+        "label": ""
+      },
+      {
+        "x": 409,
+        "y": 98,
+        "width": 21,
+        "height": 22,
+        "label": "<font face=\"Inter\" style=\"font-size: 14px;\"><b style=\"\">+</b></font>"
+      },
+      {
+        "x": 440,
+        "y": 98,
+        "width": 21,
+        "height": 22,
+        "label": "<font face=\"Inter\" style=\"font-size: 14px;\">-</font>"
+      },
+      {
+        "x": 470,
+        "y": 99,
+        "width": 30,
+        "height": 20,
+        "label": "<font face=\"Inter\" style=\"font-size: 10px;\">3 x 3</font>"
+      },
+      {
+        "x": 360,
+        "y": 98,
+        "width": 40,
+        "height": 22,
+        "label": "<font face=\"Inter\" style=\"font-size: 9px;\">Save</font>"
+      },
+      {
+        "x": 311,
+        "y": 98,
+        "width": 39,
+        "height": 22,
+        "label": "<font face=\"Inter\" style=\"font-size: 9px;\">Load</font>"
+      },
+      {
+        "x": 334,
+        "y": 332,
+        "width": 120,
+        "height": 20,
+        "label": "<font face=\"Inter\">(no file)</font>"
+      },
+      {
+        "x": 360,
+        "y": 272,
+        "width": 40,
+        "height": 40,
+        "label": ""
+      },
+      {
+        "x": 411,
+        "y": 272,
+        "width": 40,
+        "height": 40,
+        "label": ""
+      },
+      {
+        "x": 460,
+        "y": 272,
+        "width": 40,
+        "height": 40,
+        "label": ""
+      },
+      {
+        "x": 476,
+        "y": 332,
+        "width": 24,
+        "height": 20,
+        "label": "<font style=\"font-size: 8px;\" face=\"Inter\">L / D</font>"
+      }
+    ]
+  }
+}

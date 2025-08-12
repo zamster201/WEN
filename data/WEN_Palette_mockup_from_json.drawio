@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<mxfile host="app.diagrams.net">
+  <diagram name="WEN Palette">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="2" value="" style="shape=rectangle;whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="294" y="80" width="226" height="280" as_="geometry"/>
+        </mxCell>
+        <mxCell id="3" value="" style="shape=rectangle;whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="360" y="147" width="70" height="20" as_="geometry"/>
+        </mxCell>
+        <mxCell id="4" value="" style="shape=rectangle;whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="411" y="147" width="70" height="20" as_="geometry"/>
+        </mxCell>
+        <mxCell id="5" value="" style="shape=rectangle;whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="310" y="147" width="40" height="40" as_="geometry"/>
+        </mxCell>
+        <mxCell id="6" value="" style="shape=rectangle;whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="360" y="147" width="40" height="40" as_="geometry"/>
+        </mxCell>
+        <mxCell id="7" value="" style="shape=rectangle;whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="411" y="147" width="40" height="40" as_="geometry"/>
+        </mxCell>
+        <mxCell id="8" value="" style="shape=rectangle;whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="460" y="147" width="40" height="40" as_="geometry"/>
+        </mxCell>
+        <mxCell id="9" value="" style="shape=rectangle;whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="310" y="191" width="40" height="40" as_="geometry"/>
+        </mxCell>
+        <mxCell id="10" value="" style="shape=rectangle;whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="360" y="191" width="40" height="40" as_="geometry"/>
+        </mxCell>
+        <mxCell id="11" value="" style="shape=rectangle;whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="411" y="191" width="40" height="40" as_="geometry"/>
+        </mxCell>
+        <mxCell id="12" value="" style="shape=rectangle;whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="460" y="191" width="40" height="40" as_="geometry"/>
+        </mxCell>
+        <mxCell id="13" value="" style="shape=rectangle;whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="310" y="236" width="40" height="40" as_="geometry"/>
+        </mxCell>
+        <mxCell id="14" value="" style="shape=rectangle;whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="360" y="236" width="40" height="40" as_="geometry"/>
+        </mxCell>
+        <mxCell id="15" value="" style="shape=rectangle;whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="411" y="236" width="40" height="40" as_="geometry"/>
+        </mxCell>
+        <mxCell id="16" value="" style="shape=rectangle;whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="460" y="236" width="40" height="40" as_="geometry"/>
+        </mxCell>
+        <mxCell id="17" value="" style="shape=rectangle;whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="310" y="283" width="40" height="40" as_="geometry"/>
+        </mxCell>
+        <mxCell id="18" value="&lt;Font Style=&quot;Font-Size: 18Px;&quot;&gt;+&lt;/Font&gt;" style="shape=rectangle;whiteSpace=wrap;html=1;rounded=1;fillColor=#cccccc;" vertex="1" parent="1">
+          <mxGeometry x="385" y="98" width="30" height="30" as_="geometry"/>
+        </mxCell>
+        <mxCell id="19" value="&lt;Font Style=&quot;Font-Size: 18Px;&quot;&gt;-&lt;/Font&gt;" style="shape=rectangle;whiteSpace=wrap;html=1;rounded=1;fillColor=#cccccc;" vertex="1" parent="1">
+          <mxGeometry x="425" y="98" width="30" height="30" as_="geometry"/>
+        </mxCell>
+        <mxCell id="20" value="&lt;Font Style=&quot;Font-Size: 8Px;&quot;&gt;3 X 3&lt;/Font&gt;" style="shape=rectangle;whiteSpace=wrap;html=1;rounded=1;fillColor=#cccccc;" vertex="1" parent="1">
+          <mxGeometry x="469" y="103" width="30" height="20" as_="geometry"/>
+        </mxCell>
+        <mxCell id="21" value="Save" style="shape=rectangle;whiteSpace=wrap;html=1;rounded=1;fillColor=#cccccc;" vertex="1" parent="1">
+          <mxGeometry x="510" y="103" width="40" height="20" as_="geometry"/>
+        </mxCell>
+        <mxCell id="22" value="Load" style="shape=rectangle;whiteSpace=wrap;html=1;rounded=1;fillColor=#cccccc;" vertex="1" parent="1">
+          <mxGeometry x="560" y="103" width="40" height="20" as_="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
