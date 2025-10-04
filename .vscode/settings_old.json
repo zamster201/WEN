@@ -1,0 +1,12 @@
+{
+  "python.defaultInterpreterPath": "C:\\CTS\\cts_common_venv\\.venv128\\Scripts\\python.exe",
+  "terminal.integrated.profiles.windows": {
+    "WEN": {
+      "path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+      "icon": "window",
+      "color": "yellow",
+      "cwd": "C:\\CTS\\WEN"
+    }
+  },
+  "terminal.integrated.defaultProfile.windows": "WEN"
+}

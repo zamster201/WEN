@@ -1,0 +1,23 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "terminal.integrated.profiles.windows": {
+      "🧮 WEN Venv": {
+        "path": "pwsh",
+        "args": [
+          "-NoExit",
+          "-Command",
+          "cd '${workspaceFolder}'; & 'C:/CTS/cts_common_venv/.venv128/Scripts/Activate.ps1'"
+        ],
+        "icon": "wand",
+        "color": "#2472c8"
+      }
+    },
+    "terminal.integrated.defaultProfile.windows": "🧮WEN Venv",
+    "python.defaultInterpreterPath": "C:/CTS/cts_common_venv/.venv128/Scripts/python.exe"
+  }
+}

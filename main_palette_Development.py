@@ -23,7 +23,7 @@ from PySide6.QtGui import QIcon, QFont, QColor, QPalette
 
 class WENPalette(QWidget):
 
-    def set_branding_icon(self, icon_name="WEN_flow_Logo.ico"):
+    def set_branding_icon(self, icon_name="WEN_square.ico"):
         if self.theme_mgr:
             icon_path = self.theme_mgr.get_icon_path(icon_name)
             print(f"[DEBUG] Setting branding icon: {icon_path}")
@@ -105,7 +105,7 @@ class WENPalette(QWidget):
             h = cell.get("height", 40)
             label = cell.get("label", "*")
             tooltip = cell.get("tooltip", "")
-            icon_path = cell.get("icon", "default.ico")  # Default icon if none provided
+            icon_path = cell.get("icon", "WEN_square.ico")  # Default icon if none provided
             slot_id = cell.get("slot_id", "")
             style_class = cell.get("style_class", "unassigned")
             cell_type = cell.get("type", "grid")
@@ -302,7 +302,7 @@ class WENPalette(QWidget):
         used_icons = [v.get("icon", "") for v in self.layout_data.values() if isinstance(v, dict)]
         random_icon = self.get_unused_icon(used_icons)
 
-        icon_path = os.path.join("resources", random_icon) if random_icon else "resources/default.ico"
+        icon_path = os.path.join("resources", random_icon) if random_icon else "resources/WEN_square.ico"
 
         assigned_window = {
             "name": "ExampleApp",
@@ -422,5 +422,5 @@ if __name__ == "__main__":
     theme_mgr.load_theme("dark_theme_wen")
 
     window.show()
-    QTimer.singleShot(25000, app.quit)
+    QTimer.singleShot(60000, app.quit)
     sys.exit(app.exec())
